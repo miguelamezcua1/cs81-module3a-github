@@ -8,3 +8,9 @@ function greet(name) {
 function isEven(number) {
   return number % 2 === 0;
 }
+
+
+// Get the first character of a string
+function getFirstCharacter(word) {
+  return word.charAt(0);
+}
