@@ -14,3 +14,9 @@ function isEven(number) {
 function getFirstCharacter(word) {
   return word.charAt(0);
 }
+
+
+// Return the square of a number
+function square(num) {
+  return num * num;
+}
