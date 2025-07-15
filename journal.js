@@ -20,3 +20,9 @@ function getFirstCharacter(word) {
 function square(num) {
   return num * num;
 }
+
+
+// Convert a string to uppercase
+function toUpperCase(word) {
+  return word.toUpperCase();
+}
